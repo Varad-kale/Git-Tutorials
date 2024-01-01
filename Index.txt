@@ -1,1 +1,2 @@
-This is a Version 1 of my git software in github
+This is a Version 1 of my git software in github 
+something will happen
